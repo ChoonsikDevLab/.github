@@ -13,24 +13,26 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/ChoonsikDevLab/Frog-Study">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChoonsikDevLab&repo=Frog-Study" />
+      <a href="https://github.com/ChoonsikDevLab/effective-java-study">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChoonsikDevLab&repo=effective-java-study" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/ChoonsikDevLab/Rabbit-Study">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChoonsikDevLab&repo=Rabbit-Study" />
+      <a href="https://github.com/ChoonsikDevLab/Frog-Study">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChoonsikDevLab&repo=Frog-Study" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/ChoonsikDevLab/CS-Study">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChoonsikDevLab&repo=CS-Study" />
+      <a href="https://github.com/ChoonsikDevLab/Rabbit-Study">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChoonsikDevLab&repo=Rabbit-Study" />
       </a>
     </td>
     <td>
-      <!-- 나중에 추가하기 !-->
+      <a href="https://github.com/ChoonsikDevLab/CS-Study">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChoonsikDevLab&repo=CS-Study" />
+      </a>
     </td>
   </tr>
 </table>
